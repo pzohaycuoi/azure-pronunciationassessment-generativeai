@@ -1,0 +1,8 @@
+azure-cognitiveservices-speech
+python-dotenv
+fastapi
+uvicorn
+streamlit
+requests
+pandas
+streamlit-audiorec
